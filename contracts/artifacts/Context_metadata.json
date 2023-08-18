@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ROACHCOIN.sol": "Context"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ROACHCOIN.sol": {
+			"keccak256": "0x47b9d9932c45b940315baea92a6281d974c1edb9cfa775cdae6845cb4db4e136",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://887d6c5086deec8e0c93ab4970b46f391a8df964170344c0461c362ea7326b5f",
+				"dweb:/ipfs/QmPtqNbzF6UgsHqP4kQzgXrgExoC9o5yuaAnmVzvRutb42"
+			]
+		}
+	},
+	"version": 1
+}
